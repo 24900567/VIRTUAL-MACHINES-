@@ -1,5 +1,7 @@
 # VIRTUAL-MACHINES-
 EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
+## NAME:DHINESH S
+## REG NO:212224220025
 
 Aim:
 To move the files between virtual machine.
